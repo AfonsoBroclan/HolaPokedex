@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "24C45760-F247-443C-9955-6751A3A1B7DC",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:HolaPokedex.xcodeproj",
+        "identifier" : "207CE5002B7003F9006E2D02",
+        "name" : "HolaPokedexTests"
+      }
+    }
+  ],
+  "version" : 1
+}

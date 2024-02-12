@@ -1,0 +1,6 @@
+framework module Pods_HolaPokedex_HolaPokedexUITests {
+  umbrella header "Pods-HolaPokedex-HolaPokedexUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

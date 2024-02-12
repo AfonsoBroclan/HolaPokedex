@@ -1,0 +1,6 @@
+framework module Pods_HolaPokedex {
+  umbrella header "Pods-HolaPokedex-umbrella.h"
+
+  export *
+  module * { export * }
+}
